@@ -1,2 +1,1 @@
-console.log("Hello JS");
-console.log("Test");
+console.log("Hello GitHub! Is this a conflict?");
