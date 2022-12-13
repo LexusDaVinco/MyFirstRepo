@@ -1,1 +1,1 @@
-console.log("Hello GitHub! Is this a conflict?");
+console.log("Hello GitHub! Is this a conflict? Testing.");
