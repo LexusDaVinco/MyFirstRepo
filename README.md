@@ -1,4 +1,4 @@
-# MyFirstRepo# First header
+# First header
 Main information about app
 
 ## Second header
