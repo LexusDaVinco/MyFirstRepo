@@ -1,1 +1,1 @@
-console.log("Hello GitHub! Is this a conflict? Testing.");
+console.log("This is the third branch");
